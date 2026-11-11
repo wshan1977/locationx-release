@@ -1,0 +1,5 @@
+*.gbl binary
+*.bin binary
+*.s37 binary
+*.hex binary
+*.zip binary
